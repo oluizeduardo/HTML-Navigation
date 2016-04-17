@@ -1,0 +1,59 @@
+body {
+    background-color: azure;
+    font-size: 30px;
+    color: navy;
+    
+}
+
+
+
+form{
+    
+    border-radius: 10px;
+    border-color: black;
+}
+
+
+input { 
+    background-color: beige;
+}
+
+fieldset{
+    display:grid;
+    width: 30%;
+    border-radius: 10px;
+    border: solid rgba(210, 105, 30, 0.83);
+    align-content:stretch;
+}
+
+
+input{
+    border-radius: 5px;
+    height: 25px;
+    font-weight: 200;
+}
+
+
+table{
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+
+td{
+    border: 1px solid black;
+}
+
+
+
+tr{
+    border: 1px solid black;
+}
+
+
+
+th{
+    text-align: center;
+    border: 1px solid black;
+}
+
